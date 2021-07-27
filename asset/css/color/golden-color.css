@@ -1,0 +1,109 @@
+
+::selection {
+    background: rgba(74, 132, 240, 0.3);
+  }
+  
+  ::-moz-selection {
+    background: rgba(5, 41, 161, 0.3);
+  }
+  
+  .base-color {
+    color: #1691d8 !important;
+  }
+  
+  .hero-social li a:hover, .blog-link a:hover {
+    color: #0e5ec5 !important;
+  }
+  
+  .bg-base-color {
+    background-color: #0b74b9 !important;
+  }
+  
+  .follow-label:before,
+  .skill-box .fill-skillbar,
+  .timeline-area:before,
+  .testimonial .testimonial-border,
+  .blog-content:before,
+  .blog .owl-dot.active span {
+    background: #096996;
+  }
+  
+  .testimonial .owl-dot.active span {
+    background: #0a84ca !important;
+  }
+  
+  .menu li a,
+  header .navbar-brand span,
+  header .navbar-brand b,
+  .pill-button,
+  .pill-button:hover,
+  .ability ul li:before,
+  .timeline-icon,
+  .timeline-year,
+  .language-skill ul li i,
+  .contact .form-item .form-control,
+  .comments .comment-info a,
+  .portfolio .portfolio-icon a,
+  .portfolio .portfolio-icon button,
+  .blog-content button:hover,
+  .comments .comment-info a:hover,
+  .social a:hover {
+    color: #108cd4;
+  }
+  
+  .loader {
+    border-top: 4px solid #0a63b6 !important;
+  }
+  
+  .timeline-icon {
+    border: 1px solid #1652a0;
+    background-color: #0a577a;
+  }
+  
+  .portfolio .portfolio-item-content::before {
+    background-color: rgba(16, 123, 223, 0.9);
+  }
+  
+  .menu-toggler span {
+    background-color: #097bc7;
+  }
+  
+  .timeline-item:before {
+    border: 2px solid #0a90ce;
+  }
+  
+  .timeline-item:before {
+    border: 1px solid #145eb3;
+  }
+  
+  .header nav .nav-pills a.active {
+    color: #46caffa2 !important;
+  }
+  
+  .header nav a:hover {
+    color: #065eafc5 !important;
+  }
+  
+  .testimonial .testimonial-item::before {
+    color: #0f64c559;
+  }
+  
+  /*-------------------------
+        Flat Demo
+  -------------------------*/
+  .flat-demo .button-border, .arshia-dark.flat-demo .button-border {
+    background-color: #035abd;
+  }
+  
+  .flat-demo .pill-button:hover, .flat-demo .pill-button.active {
+    background-color: #0d6fdfe7;
+  }
+  
+  .arshia-dark .hero-social li a:hover {
+    color: #2398db !important;
+  }
+  
+  .arshia-dark .header nav a:hover {
+    color: #1746c5 !important;
+  }
+  /*# sourceMappingURL=golden-color.css.map */
